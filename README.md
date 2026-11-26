@@ -7,8 +7,8 @@
 **Jogue o PokeIdle com até 4 contas numa janela só — com um assistente que recomenda a melhor hunt,
 abre as lives que dão bônus de XP e cuida da loja para você.**
 
-[![Versão](https://img.shields.io/github/v/release/Xutezin/pokeidle-deck?label=vers%C3%A3o&color=e5413a)](https://github.com/Xutezin/pokeidle-deck/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/Xutezin/pokeidle-deck/total?label=downloads&color=4cc477)](https://github.com/Xutezin/pokeidle-deck/releases)
+[![Versão](imagens/selo-versao.svg)](https://github.com/Xutezin/pokeidle-deck/releases/latest)
+[![Downloads](imagens/selo-downloads.svg)](https://github.com/Xutezin/pokeidle-deck/releases)
 ![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-6aa3ef)
 ![Grátis](https://img.shields.io/badge/pre%C3%A7o-gr%C3%A1tis-f2c230)
 
